@@ -1,0 +1,4 @@
+*.json
+*.zip
+wikiart_baroque/
+.config/
